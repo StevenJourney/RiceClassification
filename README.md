@@ -2,7 +2,7 @@
 
 Kaggle link: https://www.kaggle.com/code/stevensoe94/rice-classification-by-cnn
 
-Kaggle Dataset: 
+Kaggle Dataset: https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
 
 ![image](https://github.com/user-attachments/assets/d52d795b-b66e-4541-be14-2bc7391d95ca)
 
